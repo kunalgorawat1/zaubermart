@@ -6,7 +6,7 @@ const LoginForm = () => {
         <form className={styles.form}>
             <h1>Login</h1>
             <input type="text" name='username' placeholder='username' />
-            <input type="password" name="password" placeholder='password' />
+            <input type="password" name="password" placeholder='password.' />
             <button>Login</button>
         </form>
     )
